@@ -16,7 +16,7 @@ fill(255,0,0);
 rect(width/2,height/2,300,300);
 
 //set the fill to white
-fill(255,255,255);
+fill(255,255,0);
 //draw two white rectangles (the eyes)
 rect(width/2-60,height/2-60,100,20);
 rect(width/2+60,height/2-60,100,20);
